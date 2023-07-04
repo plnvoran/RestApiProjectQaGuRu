@@ -1,4 +1,4 @@
-<h2 align="center"> Проект по автоматизации тестирования REST сервисов сайта reqres.in </h2>
+<h2 align="center"> REST Services Help Project at reqres.in </h2>
 <p  align="center">
 <img src="images/logo/reqres.PNG">
 
@@ -11,7 +11,7 @@
 + [Launch Options](#Launch-Options)
   + [Commands for gradle](#Commands-for-gradle)
   + [Run in Jenkins](#Run-in-jenkins)
-+ [Test results in Allure Report](#Test results in Allure Report)
++ [Test results in Allure Report](#Test-results-in-Allure-Report)
 + [Integration with Allure TestOps](#Integration-with-Allure-TestOps)
 
 
@@ -79,8 +79,7 @@ _The project build result is available in:_
 
 [Back to Contents ⬆](#Contents)
 
-
-# <a name="AllureReport">Результаты тестов в [Allure Report](https://jenkins.autotests.cloud/job/RestApiProjectQaGuRu_Litinskiy/allure/)</a>
+# <a name="Test results in Allure Report">Test results in [Allure Report](https://jenkins.autotests.cloud/job/RestApiProjectQaGuRu_Litinskiy/allure/)</a>
 
 ## Главное окно
 
@@ -105,7 +104,7 @@ _The project build result is available in:_
 
 [Back to Contents ⬆](#Contents)
 
-# <a>Integration with [Allure TestOps](https://allure.autotests.cloud/launch/20439/tree?treeId=0)</a>
+# <a>Integration with [Allure TestOps](https://allure.autotests.cloud/launch/26543)</a>
 
 
 ## Allure TestOps Dashboard
