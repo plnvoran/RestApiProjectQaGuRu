@@ -81,7 +81,7 @@ _The project build result is available in:_
 
 # <a name="Test results in Allure Report">Test results in [Allure Report](https://jenkins.autotests.cloud/job/RestApiProjectQaGuRu_Litinskiy/allure/)</a>
 
-## Главное окно
+## Home
 
 
 <p align="center">
