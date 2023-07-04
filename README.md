@@ -1,4 +1,4 @@
-<h2 align="center"> REST Services Help Project at reqres.in </h2>
+<h2 align="center"> The project to automate testing of REST Services Help Project at reqres.in </h2>
 <p  align="center">
 <img src="images/logo/reqres.PNG">
 
