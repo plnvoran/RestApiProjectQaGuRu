@@ -10,7 +10,7 @@
 + [Technologies and Tools](#Technologies-and-Tools)
 + [Launch Options](#Launch-Options)
   + [Commands for gradle](#Commands-for-gradle)
-  + [Run in Jenkins](#run-in-jenkins)
+  + [Run in Jenkins](#Run-in-jenkins)
 + [Test results in Allure Report](#Test results in Allure Report)
 + [Integration with Allure TestOps](#Integration-with-Allure-TestOps)
 
@@ -63,16 +63,16 @@ gradle clean test
 ```
 
 
-## <a name="Запуск в Jenkins">Запуск в [Jenkins](https://jenkins.autotests.cloud/job/utebaliyevabotakoz_project_mobile/)</a>
+## <a name="Run in Jenkins">Run in [Jenkins](https://jenkins.autotests.cloud/job/RestApiProjectQaGuRu_Litinskiy/)</a>
 
 
-Главная страница проекта:
+Main page of the project:
 <p  align="center">
 <img src="images/screens/JenkinsHistory.PNG" width="950">
 </p>
 
 
-Результат сборки проекта доступен в:
+_The project build result is available in:_
 >- <code><strong>*Allure Report*</strong></code>
 >- <code><strong>*Allure TestOps*</strong></code>
 
@@ -80,7 +80,7 @@ gradle clean test
 [Back to Contents ⬆](#Contents)
 
 
-# <a name="AllureReport">Результаты тестов в [Allure Report](https://jenkins.autotests.cloud/job/utebaliyevabotakoz_project_mobile/allure/allure)</a>
+# <a name="AllureReport">Результаты тестов в [Allure Report](https://jenkins.autotests.cloud/job/RestApiProjectQaGuRu_Litinskiy/allure/)</a>
 
 ## Главное окно
 
@@ -89,35 +89,23 @@ gradle clean test
   <img src="images/screens/Allure1.PNG" width="950">
 </p>
 
-##  Тесты
+##  Tests
 
 <p align="center">
   <img src="images/screens/Allure2.PNG" width="950">
 </p>
+
+
+##  Graphs
 
 <p align="center">
   <img src="images/screens/Allure3.PNG" width="950">
 </p>
 
 
-##  Графики
-
-<p align="center">
-  <img src="images/screens/Allure4.PNG" width="950">
-</p>
-
-<p align="center">
-  <img src="images/screens/Allure5.PNG" width="950">
-</p>
-
-<p align="center">
-  <img src="images/screens/Allure6.PNG" width="950">
-</p>
-
-
 [Back to Contents ⬆](#Contents)
 
-# <a>Интеграция с [Allure TestOps](https://allure.autotests.cloud/launch/20439/tree?treeId=0)</a>
+# <a>Integration with [Allure TestOps](https://allure.autotests.cloud/launch/20439/tree?treeId=0)</a>
 
 
 ## Allure TestOps Dashboard
