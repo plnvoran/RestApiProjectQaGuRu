@@ -76,6 +76,19 @@ _The project build result is available in:_
 >- <code><strong>*Allure Report*</strong></code>
 >- <code><strong>*Allure TestOps*</strong></code>
 
+# <a>Telegram уведомления</a>
+Telegram-бот отправляет краткий отчет в указанный телеграм-чат по результатам каждой сборки.
+<p  align="center">
+<img src="images/screens/Telegram.PNG" width="550">
+</p>
+
+Если вы хотите использовать данный проект для отправки отчета в ваш телеграм-чат, вам потребуется создать файл конфигурации.
+
+Пример файла `config.json`
+<p  align="center">
+<img src="images/screen/TelegramConfig.PNG" width="550">
+</p>
+
 
 [Back to Contents ⬆](#Contents)
 
