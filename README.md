@@ -117,7 +117,7 @@ Telegram-бот отправляет краткий отчет в указанн
 
 [Back to Contents ⬆](#Contents)
 
-# <a>Integration with [Allure TestOps](https://allure.autotests.cloud/launch/28948)</a>
+# <a>Integration with [Allure TestOps](https://allure.autotests.cloud/launch/29001)</a>
 
 
 ## Allure TestOps Dashboard
