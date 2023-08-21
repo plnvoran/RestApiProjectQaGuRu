@@ -63,7 +63,7 @@ gradle clean test
 ```
 
 
-## <a name="Run in Jenkins">Run in [Jenkins](https://jenkins.autotests.cloud/job/RestApiProjectQaGuRu_Litinskiy/)</a>
+## <a name="Run in Jenkins">Run in [Jenkins](https://jenkins.autotests.cloud/job/demo_rest_api_reqres/)</a>
 
 
 Main page of the project:
@@ -92,7 +92,7 @@ Telegram-бот отправляет краткий отчет в указанн
 
 [Back to Contents ⬆](#Contents)
 
-# <a name="Test results in Allure Report">Test results in [Allure Report](https://jenkins.autotests.cloud/job/RestApiProjectQaGuRu_Litinskiy/allure/)</a>
+# <a name="Test results in Allure Report">Test results in [Allure Report](https://jenkins.autotests.cloud/job/demo_rest_api_reqres/allure/)</a>
 
 ## Home
 
@@ -117,7 +117,7 @@ Telegram-бот отправляет краткий отчет в указанн
 
 [Back to Contents ⬆](#Contents)
 
-# <a>Integration with [Allure TestOps](https://allure.autotests.cloud/launch/26543)</a>
+# <a>Integration with [Allure TestOps](https://allure.autotests.cloud/launch/28948)</a>
 
 
 ## Allure TestOps Dashboard

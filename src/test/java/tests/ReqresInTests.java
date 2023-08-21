@@ -10,7 +10,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static tests.specs.Specs.*;
 
-public class ReqresInHWTests {
+public class ReqresInTests {
 
     String userName = "school 5";
     String userJob = "teacher";
