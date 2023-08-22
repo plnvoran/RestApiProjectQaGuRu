@@ -7,7 +7,7 @@
 # <a name="Contents">Contents</a>
 + [Description](#Description)
 + [Technologies and Tools](#technologies-and-tools)
-+ [Launch Options](#Launch-Options)
++ [Launch Options](#launch-options)
   + [Commands for gradle](#Commands-for-gradle)
   + [Run in Jenkins](#Run-in-jenkins)
 + [Telegram notifications](#Telegram-notifications)
@@ -25,6 +25,7 @@
 - [x] Integration with `Allure TestOps`
 - [x] Autotests as test documentation
 
+[Back to Contents ⬆](#Contents)
 
 # <a name="Technologies and Tools">Technologies and Tools</a>
 <p  align="center">
@@ -62,9 +63,7 @@ To run locally and in Jenkins, use the following command:
 gradle clean test
 ```
 
-
 ## <a name="Run in Jenkins">Run in [Jenkins](https://jenkins.autotests.cloud/job/demo_rest_api_reqres/)</a>
-
 
 Main page of the project:
 <p  align="center">
@@ -75,6 +74,8 @@ Main page of the project:
 _The project build result is available in:_
 >- <code><strong>*Allure Report*</strong></code>
 >- <code><strong>*Allure TestOps*</strong></code>
+
+[Back to Contents ⬆](#Contents)
 
 # <a>Telegram notifications</a>
 The Telegram bot sends a short report to the specified telegram chat based on the results of each build.
@@ -88,7 +89,6 @@ File example `config.json`
 <p  align="center">
 <img src="images/screens/TelegramConfig.PNG" width="550">
 </p>
-
 
 [Back to Contents ⬆](#Contents)
 
@@ -118,7 +118,6 @@ File example `config.json`
 [Back to Contents ⬆](#Contents)
 
 # <a>Integration with [Allure TestOps](https://allure.autotests.cloud/launch/29001)</a>
-
 
 ## Allure TestOps Dashboard
 
