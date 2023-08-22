@@ -1,7 +1,6 @@
 # <a name="The project to automate testing of REST Services">The project to automate testing of REST Services Help Project at [Reqres.in](https://reqres.in/)</a>
 <p  align="center">
-<img src="images/logo/reqres.PNG">
-
+<a href="https://reqres.in/"><img src="images/logo/reqres.PNG" alt="Reqres.in"/></a> 
 </p>
 
 
