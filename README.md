@@ -1,4 +1,4 @@
-<h2 align="center"> The project to automate testing of REST Services Help Project at reqres.in </h2>
+<#<a name="The project to automate testing of REST Services">The project to automate testing of REST Services Help Project at Reqres.in[Reqres.in](https://reqres.in/)</a>
 <p  align="center">
 <img src="images/logo/reqres.PNG">
 
@@ -87,7 +87,7 @@ If you want to use this project to send a report to your telegram chat, you will
 
 File example `config.json`
 <p  align="center">
-<img src="images/screen/TelegramConfig.PNG" width="550">
+<img src="images/screens/TelegramConfig.PNG" width="550">
 </p>
 
 
