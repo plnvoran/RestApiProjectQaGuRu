@@ -11,6 +11,7 @@
 + [Launch Options](#Launch-Options)
   + [Commands for gradle](#Commands-for-gradle)
   + [Run in Jenkins](#Run-in-jenkins)
++ [Telegram notifications](#Telegram-notifications)
 + [Test results in Allure Report](#Test-results-in-Allure-Report)
 + [Integration with Allure TestOps](#Integration-with-Allure-TestOps)
 
@@ -76,15 +77,15 @@ _The project build result is available in:_
 >- <code><strong>*Allure Report*</strong></code>
 >- <code><strong>*Allure TestOps*</strong></code>
 
-# <a>Telegram уведомления</a>
-Telegram-бот отправляет краткий отчет в указанный телеграм-чат по результатам каждой сборки.
+# <a>Telegram notifications</a>
+The Telegram bot sends a short report to the specified telegram chat based on the results of each build.
 <p  align="center">
 <img src="images/screens/Telegram.PNG" width="550">
 </p>
 
-Если вы хотите использовать данный проект для отправки отчета в ваш телеграм-чат, вам потребуется создать файл конфигурации.
+If you want to use this project to send a report to your telegram chat, you will need to create a configuration file.
 
-Пример файла `config.json`
+File example `config.json`
 <p  align="center">
 <img src="images/screen/TelegramConfig.PNG" width="550">
 </p>
