@@ -8,11 +8,11 @@
 + [Description](#Description)
 + [Technologies and Tools](#technologies-and-tools)
 + [Launch Options](#launch-options)
-  + [Commands for gradle](#Commands-for-gradle)
-  + [Run in Jenkins](#Run-in-jenkins)
-+ [Telegram notifications](#Telegram-notifications)
-+ [Test results in Allure Report](#Test-results-in-Allure-Report)
-+ [Integration with Allure TestOps](#Integration-with-Allure-TestOps)
+  + [Commands for gradle](#commands-for-gradle)
+  + [Run in Jenkins](#run-in-jenkins)
++ [Telegram notifications](#telegram-notifications)
++ [Test results in Allure Report](#test-results-in-allure-report)
++ [Integration with Allure TestOps](#integration-with-allure-testOps)
 
 
 
