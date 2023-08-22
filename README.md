@@ -12,7 +12,7 @@
   + [Run in Jenkins](#run-in-jenkins)
 + [Telegram notifications](#telegram-notifications)
 + [Test results in Allure Report](#test-results-in-allure-report)
-+ [Integration with Allure TestOps](#integration-with-allure-testOps)
++ [Integration with Allure TestOps](#integration-with-allure-testops)
 
 
 
