@@ -15,7 +15,6 @@
 + [Integration with Allure TestOps](#integration-with-allure-testops)
 
 
-
 # <a name="Description">Description</a>
   The project consists of API tests for the site https://reqres.in/.
   Brief list of facts about the project:
@@ -61,6 +60,7 @@ gradle clean test
 ```
 
 ## <a name="Run in Jenkins">Run in [Jenkins](https://jenkins.autotests.cloud/job/demo_rest_api_reqres/)</a>
+> The link is available only to authorized users.
 
 Main page of the project:
 <p  align="center">
@@ -90,6 +90,7 @@ File example `config.json`
 [Back to Contents ⬆](#Contents)
 
 # <a name="Test results in Allure Report">Test results in [Allure Report](https://jenkins.autotests.cloud/job/demo_rest_api_reqres/allure/)</a>
+> The link is available only to authorized users.
 
 ## Home
 
@@ -115,6 +116,7 @@ File example `config.json`
 [Back to Contents ⬆](#Contents)
 
 # <a>Integration with [Allure TestOps](https://allure.autotests.cloud/launch/29001)</a>
+> The link is available only to authorized users.
 
 ## Allure TestOps Dashboard
 
